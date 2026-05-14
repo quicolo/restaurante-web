@@ -1,0 +1,9 @@
+# Carpeta del editor
+.vscode/
+
+# Archivo concreto
+pruebas.txt
+
+# Tipos de archivos
+*.zip
+*.log
